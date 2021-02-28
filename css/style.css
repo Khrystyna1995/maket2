@@ -99,3 +99,19 @@ header{
     min-height: 150px;
     margin-top: 100px;
 }
+.header-end-inner{
+    text-align: center;
+    padding-top: 2%;
+}
+.header-end-img{
+    position: relative;
+}
+.header-end-text{
+    position: absolute;
+    display: block;
+    width: 143px;
+    top: 12px;
+    text-align: left;
+    right: 72px;
+    color: #ffffff;
+}
