@@ -109,9 +109,9 @@ header{
 .header-end-text{
     position: absolute;
     display: block;
-    width: 143px;
-    top: 12px;
+    width: 64%;
+    top: 17%;
     text-align: left;
-    right: 72px;
+    right: 33%;
     color: #ffffff;
 }
